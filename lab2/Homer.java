@@ -2,7 +2,6 @@ package lab2;
 import javax.swing.JComponent;
 import java.awt.Color;
 import java.awt.Graphics;
-import java.awt.Polygon;
 
 public class Homer extends JComponent {
 
